@@ -1,0 +1,4 @@
+git clone <YOUR_GITHUB_REPO_URL>
+cd <PROJECT_NAME>
+npm install
+npm run dev
